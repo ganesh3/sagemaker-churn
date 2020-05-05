@@ -1,9 +1,9 @@
 
 # **Predicting Customer Churn with Amazon SageMaker**
 
-This lab is provided as part of the [AWS Innovate Online Conference](https://aws.amazon.com/events/aws-innovate/machine-learning/). It has been adapted from an [AWS blog post](https://aws.amazon.com/blogs/ai/predicting-customer-churn-with-amazon-machine-learning/).
+This lab is provided as part of **[AWS Summit Online](https://aws.amazon.com/events/summits/online/)**. It has been adapted from an [AWS blog post](https://aws.amazon.com/blogs/ai/predicting-customer-churn-with-amazon-machine-learning/).
 
-ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to minimize costs.
+ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
 ## Background
 
