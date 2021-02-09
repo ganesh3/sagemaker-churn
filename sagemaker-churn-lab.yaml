@@ -72,7 +72,7 @@ Resources:
             Fn::Base64:
               !Sub |
               #!/bin/bash
-              wget -O /home/ec2-user/SageMaker/lab_notebook.ipynb https://raw.githubusercontent.com/aws-john/sagemaker-churn/master/sagemaker-churn-lab.ipynb
+              wget -O /home/ec2-user/SageMaker/lab_notebook.ipynb https://raw.githubusercontent.com/phonghuule/sagemaker-churn/master/sagemaker-churn-lab.ipynb
               chown ec2-user:ec2-user /home/ec2-user/SageMaker/lab_notebook.ipynb
 
   SageMakerNotebookInstance:
