@@ -1,8 +1,7 @@
 
 # **Predicting Customer Churn with Amazon SageMaker**
 
-This lab is provided as part of **[AWS Summit Online](https://aws.amazon.com/events/summits/online/)**. It has been adapted from an [AWS blog post](https://aws.amazon.com/blogs/ai/predicting-customer-churn-with-amazon-machine-learning/). 
-Click [here](https://bit.ly/2yLtZqL) to explore the full list of hands-on labs.
+This lab is provided as part of **[AWS Innovate AI/ML Edition](https://aws.amazon.com/events/aws-innovate/machine-learning/)**, click [here](https://github.com/phonghuule/aws-innovate-ai-ml) to explore the full list of hands-on labs.
 
 ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
@@ -59,3 +58,7 @@ When you have completed the lab, you must delete the CloudFormation stack as fol
 **12.** Click **Delete**.
 
 This will delete the stack and will stop charges being incurred in your AWS account.
+
+## Survey
+Please help us to provide your feedback [here](https://amazonmr.au1.qualtrics.com/jfe/form/SV_b7mXqfAaiIZUnn8?Session=Lab4).
+Participants who complete the surveys from AWS Innovate Online Conference - AI & Machine Learning Edition will receive a gift code for USD25 in AWS credits. AWS credits will be sent via email by 31 March, 2021.
